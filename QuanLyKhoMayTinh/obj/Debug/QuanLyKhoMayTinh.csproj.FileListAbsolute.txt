@@ -1,0 +1,100 @@
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\bin\Debug\QuanLyKhoMayTinh.exe
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\bin\Debug\QuanLyKhoMayTinh.pdb
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.Properties.Resources.resources
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.csproj.GenerateResource.Cache
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.exe
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.pdb
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmDangNhap.resources
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmChinh.resources
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmXemDanhMuc.resources
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyKhachHang.resources
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyVatTu.resources
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyNhanVien.resources
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyPhieuNhap.resources
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyPhieuXuat.resources
+C:\Documents and Settings\phuongsen\My Documents\Visual Studio 2008\Projects\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoKhachHang.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.exe
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.pdb
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\bin\Debug\QuanLyKhoMayTinh.exe
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\bin\Debug\QuanLyKhoMayTinh.pdb
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\ResolveAssemblyReference.cache
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoKhachHang.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmChinh.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmDangNhap.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyKhachHang.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyNhanVien.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyPhieuNhap.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyPhieuXuat.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyVatTu.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmXemDanhMuc.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.Properties.Resources.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.csproj.GenerateResource.Cache
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoVatTu.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoNhanVien.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoPhieuNhap.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoPhieuXuat.resources
+F:\TuanAnh\C#\baitapC#TuanAnh\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmHoaDon.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.exe
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.pdb
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\bin\Debug\QuanLyKhoMayTinh.exe
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\bin\Debug\QuanLyKhoMayTinh.pdb
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoKhachHang.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoNhanVien.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoPhieuNhap.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoPhieuXuat.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoVatTu.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmChinh.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmDangNhap.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmHoaDon.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyKhachHang.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyNhanVien.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyPhieuNhap.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyPhieuXuat.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyVatTu.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmXemDanhMuc.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.Properties.Resources.resources
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.csproj.GenerateResource.Cache
+C:\Documents and Settings\HP\Desktop\QuanLyKhoMayTinh\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.Formhelp.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.csprojResolveAssemblyReference.cache
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.Formhelp.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoKhachHang.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoNhanVien.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoPhieuNhap.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoPhieuXuat.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoVatTu.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmChinh.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmDangNhap.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmHoaDon.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyKhachHang.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyNhanVien.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyPhieuNhap.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyPhieuXuat.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyVatTu.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmXemDanhMuc.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.Properties.Resources.resources
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.csproj.GenerateResource.Cache
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.exe
+E:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.pdb
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.csprojResolveAssemblyReference.cache
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.Formhelp.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoKhachHang.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoNhanVien.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoPhieuNhap.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoPhieuXuat.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmBaoCaoVatTu.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmChinh.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmDangNhap.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmHoaDon.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyKhachHang.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyNhanVien.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyPhieuNhap.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyPhieuXuat.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmQuanLyVatTu.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.frmXemDanhMuc.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.Properties.Resources.resources
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.csproj.GenerateResource.Cache
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.csproj.CoreCompileInputs.cache
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.exe
+F:\Studio\Windows Form\Source code\Application\Visual C#\[Sharecode.vn] Code chuong trinh quan ly kho may tinh C#\QuanLyKhoMayTinh\obj\Debug\QuanLyKhoMayTinh.pdb
